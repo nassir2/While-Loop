@@ -3,19 +3,7 @@
 <!DOCTYPE html>
 <html>
 
-
-
-<html>
-<head>
-<title>My Javascript Page</title>
-</head>
-
 <body>
-<script>
-<script type="text/javascript">
-alert("Welcome to my world!!!");
-
-Hello
 
 <p>While Loop</p>
 
@@ -23,7 +11,7 @@ Hello
 
 <p id="demo"></p>
 
-
+<script>
 function myFunction() 
 {
     var text = "";
