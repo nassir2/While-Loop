@@ -7,7 +7,7 @@
 
 <p>While Loop</p>
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">Click it</button>
 
 <p id="demo"></p>
 
